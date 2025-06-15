@@ -31,7 +31,7 @@ How to Use
  * Start Mining: Navigate to the 'Mining' tab and click the "Start" button to begin the mining process.
  * Monitor Progress: Use the dashboard to track your real-time mining rate and total earnings.
 
-![1750001084672397166658500722329](https://github.com/user-attachments/assets/25f9990a-fca9-4c06-8fe8-3326440f851a)
+![1750001084672397166658500722329](https://www.youtube.com/channel/UCqAKEQFSpZEpED6DfdTBkWg)
 
 
 
