@@ -1,4 +1,11 @@
 # Pi Miner for Windows
+
+Pi - YouTube
+https://www.youtube.com/watch?v=MsOaC61cR3U
+
+![1750001084672397166658500722329](https://github.com/user-attachments/assets/d740b8d9-4c2d-4c2c-9018-3f8effa87bfd)
+
+
 Welcome to Pi Miner for Windows, the desktop client that allows you to participate in the Pi network directly from your computer. Our application provides a stable and efficient way to support the blockchain and mine Pi from your Windows PC.
 Features
  * Desktop Mining: Utilize your computer's resources to mine Pi efficiently.
@@ -23,5 +30,10 @@ How to Use
  * Log In: Sign in using your Pi Network account credentials.
  * Start Mining: Navigate to the 'Mining' tab and click the "Start" button to begin the mining process.
  * Monitor Progress: Use the dashboard to track your real-time mining rate and total earnings.
+
+![1750001084672397166658500722329](https://github.com/user-attachments/assets/25f9990a-fca9-4c06-8fe8-3326440f851a)
+
+
+
 Disclaimer
 Pi Miner is software that participates in a cryptocurrency network. The value of cryptocurrencies can be volatile. Ensure your PC meets the system requirements and always download software from the official link provided.
